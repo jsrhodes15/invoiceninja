@@ -12,7 +12,8 @@ ensure Docker is running on your machine, and fire up the services
 ```bash
 docker-compose up
 ```
-> this uses the images from dockerhub, local development will be configured and explain ASAP
+\**this uses the images from dockerhub, local development will be configured and explained ASAP*
+
 
 * [Features](https://www.invoiceninja.com/invoicing-features/)
 * [Videos](https://www.youtube.com/channel/UCXAHcBvhW05PDtWYIq7WDFA/videos)
